@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=RishabhWDB&theme=dark&hide_border=false" height="200"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhWDB&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="200"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhWDB&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200"/></td>
   </tr>
 </table>
 
