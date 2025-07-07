@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NLP](https://github.com/RishabhWDB/NLP)
 
-- 🌱 I’m currently learning **NLP, JavaScript**
+- 🌱 I’m currently learning **NLP , JavaScript**
 
 - 📫 How to reach me **rishabharya.k@gmail.com**
 
