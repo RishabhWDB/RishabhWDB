@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **NLP , JavaScript**  
 - 📫 How to reach me **rishabharya.k@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: welldonebrisket on discord</h3>
 <p align="left">
 </p>
 
