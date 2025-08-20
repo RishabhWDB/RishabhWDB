@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Rishabh Arya</h1>
 <h3 align="center">A passionate AI/ML student from India</h3>
 
-- 🔭 I’m currently working on [NLP](https://github.com/RishabhWDB/NLP)  
-- 🌱 I’m currently learning **NLP , JavaScript**  
+- 🔭 I’m currently working on Data Science  
+- 🌱 I’m currently learning DSA , ScikitLearn  
 - 📫 How to reach me **rishabharya.k@gmail.com**
 
 <h3 align="left">Connect with me: welldonebrisket on discord</h3>
