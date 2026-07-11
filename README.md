@@ -7,7 +7,7 @@
 
 -  How to reach me **welldonebrisket on discord**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: rishabharya.k@gmail.com</h3>
 <p align="left">
 </p>
 
